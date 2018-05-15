@@ -20,6 +20,7 @@ function inc(n) {
 
 function dec(n) {
   return n -= 1
+<<<<<<< HEAD
 }
 
 function makeInt(n) {
@@ -28,4 +29,6 @@ function makeInt(n) {
 
 function preserveDecimal(n) {
   return parseFloat(n)
+=======
+>>>>>>> a423164b3b7fe866f336a8d0a3106737d0d6abd5
 }
